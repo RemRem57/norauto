@@ -21,7 +21,7 @@ export const next_button_bound: bound = {
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet],
+  imports: [RouterOutlet, NgIf, FormsModule],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
