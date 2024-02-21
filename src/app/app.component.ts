@@ -137,7 +137,7 @@ export class AppComponent implements OnInit {
 
       // Bouton quitter
       if (sketch.mouseX > 721 && sketch.mouseX < 875 && sketch.mouseY > 667 && sketch.mouseY < 705) {
-        this.page5(sketch);
+        this.page1(sketch);
       }
     }
 
