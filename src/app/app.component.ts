@@ -142,6 +142,7 @@ export class AppComponent implements OnInit {
     }
   }
 
+
   /**
    * Première interaction avec un client
    * Choix de la posture
