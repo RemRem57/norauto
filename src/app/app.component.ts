@@ -140,7 +140,6 @@ export class AppComponent implements OnInit {
         this.page1(sketch);
       }
     }
-
   }
 
   /**
